@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://pdouvitsas.github.io
+title: pdouvitsas
+tagline: A log of coding samples
+description: Coding samples
+paginate: 5
